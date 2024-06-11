@@ -1,12 +1,6 @@
+# SSH in GitHub
 
 ![GitHub SSH](../assets/GitHub-SSH.excalidraw.png)
-
-## Table of Contents
-
-- [[#Generating a new SSH key|Generating a new SSH key]]
-- [[#Adding your SSH key to the ssh-agent|Adding your SSH key to the ssh-agent]]
-- [[#Using `ssh` connection|Using ssh connection]]
-- [[#`known_hosts`|known_hosts]]
 
 ## Generating a new SSH key
 
