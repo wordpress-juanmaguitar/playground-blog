@@ -22,7 +22,7 @@
       "step": "installPlugin",
       "pluginZipFile": {
         "resource": "url",
-        "url": "https://github-proxy.com/proxy/?repo=bgrgicak/playground-blog"
+        "url": "https://github-proxy.com/proxy/?repo=wordpress-juanmaguitar/playground-blog"
       },
       "options": {
         "activate": false
