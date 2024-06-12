@@ -34,7 +34,7 @@
     },
     {
       "step": "mv",
-      "fromPath": "/wordpress/wp-content/plugins/playground-blog-main/posts",
+      "fromPath": "/wordpress/wp-content/plugins/playground-blog-custom-posts/posts",
       "toPath": "/wordpress/wp-content/uploads/markdown"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "step": "mv",
-      "fromPath": "/wordpress/wp-content/plugins/playground-blog-main/playground-markdown",
+      "fromPath": "/wordpress/wp-content/plugins/playground-blog-custom-posts/playground-markdown",
       "toPath": "/wordpress/wp-content/plugins/playground-markdown"
     },
     {
