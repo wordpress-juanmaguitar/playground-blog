@@ -1,7 +1,5 @@
 # SSH in GitHub
 
-![GitHub SSH](./assets/GitHub-SSH.excalidraw.png)
-
 ## Generating a new SSH key
 
 ```
